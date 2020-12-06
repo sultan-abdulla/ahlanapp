@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-md-5 col-lg-6 world-wide">
 				<img class="img-fluid" src="../assets/images/logo-color.png" alt="">
-				<p>Come on in .. be our guest! </p>
+				<p>Come on in .. be our guest!!! </p>
 				<h3>Social Media</h3>
 				<ul class="footer-socials">
 	                <li><a href="https://www.facebook.com/ahlanrewards/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
