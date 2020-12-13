@@ -32,7 +32,7 @@ h123
           </p>
 
         </div>
-        <div class="col-md-12 col-lg-6 instant-image">
+        <div class="col-md-12 col-lg-5 instant-image">
           <img class="img-fluid" src="../assets/images/about-bg.png" alt="">
         </div>
       </div>
@@ -43,13 +43,14 @@ h123
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-lg-6 qualify-image">
-          <img class="img-fluid" src="../assets/images/credit-bg.png" alt="">
+          
+          <img class="img-fluid" src="../assets/images/365.png"  alt="">
         </div>
-        <div class="col-md-12 col-lg-6 bookit-future">
+        <div class="col-md-12 col-lg-6 bookit-future" class="backgroung">
           <h2> What’s Ahlan Credit</h2>
 
             <p>
-                 <img src="../assets/images/credit1.svg" alt="" srcset="">  
+                 <img src="../assets/images/credit1.svg" alt="" >  
             As a member using Ahlan, you will be rewarded for your loyalty by receiving “cash back” Ahlan Credit with a minimum 5% of the total value of each order. </p>
             <p>
             <img src="../assets/images/credit2.svg" alt="" srcset="">    
@@ -70,19 +71,34 @@ h123
           <h2>How to use Ahlan App</h2>
           </div>
           <div class="row">
+            <div class="col-sm-4 col-lg-4 ">
+          
+              <div class="work-image">
+              <a href="dine-in.php">
+              
+  <img src="../assets/images/How to use Ahlan-10.png" alt="Avatar" class="image" style="width:100%">
+  <div class="overlay"></div>
+    <div class="text"><strong>Dine-in experiance</strong></div>
+</a>
+</div>
+              
+</div>
+                   
             <div class="col-sm-4 col-lg-4 work-det">
               <div class="work-image">
-                <img class="img-fluid" src="../assets/images/work1.png" alt="">
-              </div>
-            </div>
-            <div class="col-sm-4 col-lg-4 work-det">
-              <div class="work-image">
-                <img class="img-fluid" src="../assets/images/work2.png" alt="">
-              </div>
+                <a href="pickup.php">
+                <img  src="../assets/images/How-to-use-Ahlan-11.png" class="image" >
+                <div class="overlay"></div>
+                <div class="text"><strong>Pick-up experience</strong></div>
+              </div></a>
                         </div>
-            <div class="col-sm-4 col-lg-4 work-det">
+            <div class="col-sm-4 col-lg-4 work-det"> 
+              
               <div class="work-image">
-                <img class="img-fluid" src="../assets/images/work3.png" alt="">
+                <a href="home-delivery.php">
+            <img src="../assets/images/How to use Ahlan-10.png" alt="Avatar" class="image" style="width:100%">
+              <div class="overlay"></div>
+              <div class="text"><strong>home delivery<br>experience</strong></div></a>
               </div>
             </div>
           </div>
@@ -160,6 +176,8 @@ h123
 
 
 
-<?php include('../includes/footer.php') ?> 
+  <?php include('../includes/footer.php') ?> 
+  <?php include('../assets/css/pics.html') ?> 
+
 
 

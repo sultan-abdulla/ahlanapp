@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-5 col-lg-6 world-wide">
-				<img class="img-fluid" src="../assets/images/logo-color.png" alt="">
+				<img class="img-fluid" src="../assets/images/Ahlan Logo-02.png" style="width:35%" alt="">
 				<p>Come on in .. be our guest!!! </p>
 				<h3>Social Media</h3>
 				<ul class="footer-socials">
@@ -14,7 +14,7 @@
 			<div class="col-md-4 col-lg-3 contact-us">
 				<h2>CONTACT US</h2>
 				<p><a href="tel:+97317582111">+973 17582111</a></p>
-				<p><a href="mailto:info@ahlanapp.com">info@ahlanapp.com</a></p>
+				<p><a href="mailto:merchant@ahlanapp.com">merchant@ahlanapp.com</a></p>
 				<div class="dlapp">
                   <a href="https://apps.apple.com/eg/app/ahlan-food/id1538748062" target="_blank"><img src="../assets/images/appstorebtn.png" alt="" class="img-responsive"></a>
                   <a href="https://play.google.com/store/apps/details?id=com.app.ahlan" target="_blank"><img src="../assets/images/gplaybtn.png" alt="" class="img-responsive"></a>
@@ -60,13 +60,11 @@
 					<div class="float-left footer-col">&copy;Copyright <?php echo date("Y"); ?>. All Right Reserved.</div>
 					<div class="float-right footer-col">
 						<div id="powered">
-						   <a href="http://www.fabricit.com/" target="_blank">
-						      <span>Powered by</span>
-						      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;width:48px" xml:space="preserve">
-						         <style type="text/css">
-						            .st0{fill:#ED2224;}
-						            .st1{fill:#010101;}
-						         </style>
+						  
+						     
+							  <img src='../assets/images/1.jpg' wigth="5px" hight="5px" />
+						      <!-- <svg version="1.1" id="Layer_1" src="../assets/images/logo.png"  x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;width:48px" xml:space="preserve">
+						        
 						         <g id="XMLID_2_">
 						            <g id="XMLID_56_">
 						               <g id="XMLID_60_">
@@ -171,7 +169,7 @@
 						               </g>
 						            </g>
 						         </g>
-						      </svg>
+						      </svg> -->
 						   </a>
 						</div>
 					</div>

@@ -44,7 +44,7 @@
             <div class="row">
                <div class="col-md-12">
                   <nav class="navbar navbar-expand-lg navbar-light nav-menu">
-                     <a class="navbar-brand" href="index.php"><img class="img-fluid logo" src="../assets/images/logo.png" alt=""></a>
+                     <a class="navbar-brand" href="home.php"><img class="img-fluid logo" src="../assets/images/logo.png" alt=""></a>
                      <button class="navbar-toggler nav-btn" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                      <span class="navbar-toggler-icon"></span>
                      </button>
