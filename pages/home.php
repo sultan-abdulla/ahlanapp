@@ -72,7 +72,7 @@ h123
           </div>
           <div class="row">
             <div class="col-sm-4 col-lg-4 ">
-          
+          <div class="con">
               <div class="work-image">
               <a href="dine-in.php">
               
@@ -81,24 +81,25 @@ h123
     <div class="text"><strong>Dine-in experiance</strong></div>
 </a>
 </div>
-              
+</div>              
 </div>
                    
             <div class="col-sm-4 col-lg-4 work-det">
+              <div class="con">
               <div class="work-image">
                 <a href="pickup.php">
                 <img  src="../assets/images/How-to-use-Ahlan-11.png" class="image" >
                 <div class="overlay"></div>
                 <div class="text"><strong>Pick-up experience</strong></div>
-              </div></a>
+              </div></a></div>
                         </div>
             <div class="col-sm-4 col-lg-4 work-det"> 
-              
+              <div class="con">
               <div class="work-image">
                 <a href="home-delivery.php">
-            <img src="../assets/images/How to use Ahlan-10.png" alt="Avatar" class="image" style="width:100%">
+            <img src="../assets/images/How to use Ahlan-12.png" alt="Avatar" class="image" style="width:100%">
               <div class="overlay"></div>
-              <div class="text"><strong>home delivery<br>experience</strong></div></a>
+              <div class="text"><strong>home delivery<br>experience</strong></div></a></div>
               </div>
             </div>
           </div>
